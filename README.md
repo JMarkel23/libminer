@@ -4,6 +4,8 @@
 # libminer
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/JMarkel23/libminer/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/JMarkel23/libminer/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of libminer is to … help you understand your libraries better,
@@ -30,7 +32,7 @@ lib_summary()
 #>                                                                   Library
 #> 1                                      C:/Program Files/R/R-4.2.3/library
 #> 2                        C:/Users/justinm/AppData/Local/R/win-library/4.2
-#> 3 C:/Users/justinm/AppData/Local/Temp/Rtmp8eLglQ/temp_libpath60085f9366b0
+#> 3 C:/Users/justinm/AppData/Local/Temp/Rtmp8eLglQ/temp_libpath60085d535291
 #>   n_packages
 #> 1         30
 #> 2        256
@@ -41,7 +43,7 @@ lib_summary(sizes = TRUE)
 #>                                                                   Library
 #> 1                                      C:/Program Files/R/R-4.2.3/library
 #> 2                        C:/Users/justinm/AppData/Local/R/win-library/4.2
-#> 3 C:/Users/justinm/AppData/Local/Temp/Rtmp8eLglQ/temp_libpath60085f9366b0
+#> 3 C:/Users/justinm/AppData/Local/Temp/Rtmp8eLglQ/temp_libpath60085d535291
 #>   n_packages  lib_size
 #> 1         30  67242362
 #> 2        256 627093339
